@@ -1,0 +1,10 @@
+{
+  "apiKey": "AIzaSyDxlBAuxQ8_dXofAFCRM-0Q8dAZcL0yu68",
+  "authDomain": "to-do-project-nestjs.firebaseapp.com",
+  "databaseURL": "https://to-do-project-nestjs-default-rtdb.firebaseio.com",
+  "projectId": "to-do-project-nestjs",
+  "storageBucket": "to-do-project-nestjs.appspot.com",
+  "messagingSenderId": "442168269112",
+  "appId": "1:442168269112:web:8d410a42005337f59849cd",
+  "measurementId": "G-RNCDCCDM4L"
+}
