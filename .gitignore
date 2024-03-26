@@ -56,7 +56,7 @@ pids
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 .yarn
-src/common/firebaseAppSettings.json
-src/common/firebaseAppSettings.json
-src/common/firebaseServiceAccount.json
+# src/common/firebaseAppSettings.json
+src/common/firebaseAppSettingsCopy.json
+# src/common/firebaseServiceAccount.json
 src/common/firebaseServiceAccountCopy.json
